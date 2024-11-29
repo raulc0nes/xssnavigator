@@ -4,3 +4,4 @@ source xssnavigator/bin/activate
 pip3 install selenium
 pip3 install pynput
 python3 xssnavigator.py
+deactivate
