@@ -8,5 +8,4 @@ db6c2084a193fbc5e46af0432d5e9eb80ef13439219c68ce22b2145b1968edab  xssnavigator.p
 ### actualmente funcional para peticiones GET
                         # XSSNAVIGATOR #
 ### listado de 1204 payloads personalizable
-#OpenAI
 ### autodetección de palabra hash para autoclic y empiece del método
